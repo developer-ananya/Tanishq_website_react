@@ -1,0 +1,1344 @@
+
+{
+
+    "jewellery": [
+        
+            {
+                "id": 1,
+                "name": "Gold Ring",
+                "price": 15000,
+                "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw5356d589/images/hi-res/511098OMCAAA00_1.jpg?sw=640&sh=640",
+                "description": "A stunning gold ring with intricate designs."
+            },
+            {
+                "id": 2,
+                "name": "Silver Necklace",
+                "price": 120000,
+                "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw8107bbd6/images/hi-res/501145FAAAC02_1.jpg?sw=640&sh=640",
+                "description": "A beautiful silver necklace with a modern touch."
+            },
+            {
+                "id": 3,
+                "name": "Diamond Earrings",
+                "price": 300000,
+                "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwbdebb1b0/images/hi-res/51D4B3BERAA40_1.jpg?sw=640&sh=640",
+                "description": "Elegant diamond earrings that sparkle in the light."
+            },
+            {
+                "id": 4,
+                "name": "Gold Ring",
+                "price": 15000,
+                "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwbcfed682/images/hi-res/51D3B2BBSAA00_1.jpg?sw=640&sh=640",
+                "description": "A stunning gold ring with intricate designs."
+            },
+            {
+                "id": 5,
+                "name": "Silver Necklace",
+                "price": 120000,
+                "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwe34aa1b3/images/hi-res/50M4C1FKHAA00_1.jpg?sw=640&sh=640",
+                "description": "A beautiful silver necklace with a modern touch."
+            },
+            {
+                "id": 6,
+                "name": "Diamond Earrings",
+                "price": 300000,
+                "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw994edc2d/images/hi-res/51D3D1DMNABA00_1.jpg?sw=640&sh=640",
+                "description": "Elegant diamond earrings that sparkle in the light."
+            },
+             {
+                "id": 7,
+                "name": "Silver Necklace",
+                "price": 120000,
+                "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw5376a066/images/hi-res/51D3C2DIRABA00_1.jpg?sw=640&sh=640",
+                "description": "A beautiful silver necklace with a modern touch."
+            },
+            {
+                "id": 8,
+                "name": "Diamond Earrings",
+                "price": 300000,
+                "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw8d8c0a6b/images/hi-res/50D3I3SZTABA09_1.jpg?sw=640&sh=640",
+                "description": "Elegant diamond earrings that sparkle in the light."
+            },
+             {
+                "id": 9,
+                "name": "Diamond Earrings",
+                "price": 300000,
+                "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw2ea23022/images/hi-res/501151STTAGA02_1.jpg?sw=640&sh=640",
+                "description": "Elegant diamond earrings that sparkle in the light."
+            },
+            {
+                "id": 200,
+                "name": "Gold Ring",
+                "price": 15000,
+                "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw908fe0fa/images/hi-res/511920FCMAA00.jpg?sw=480&sh=480",
+                "description": "A stunning gold ring with intricate designs."
+            },
+            {
+                "id": 201,
+                "name": "Silver Necklace",
+                "price": 120000,
+                "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw077eb895/images/hi-res/51D3D2DEMABA00_1.jpg?sw=480&sh=480",
+                "description": "A beautiful silver necklace with a modern touch."
+            },
+            {
+                "id":203,
+                "name": "Diamond Earrings",
+                "price": 300000,
+                "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw54e6a0a7/images/hi-res/51D2D2PMMAAA00_1.jpg?sw=640&sh=640",
+                "description": "Elegant diamond earrings that sparkle in the light."
+            },
+            {
+                "id": 204,
+                "name": "Gold Ring",
+                "price": 15000,
+                "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw498737ba/images/hi-res/50D3I2PQMAAA02_1.jpg?sw=640&sh=640",
+                "description": "A stunning gold ring with intricate designs."
+            },
+            {
+                "id": 205,
+                "name": "Silver Necklace",
+                "price": 120000,
+                "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw08f11281/images/hi-res/513218PPZAAA00_1.jpg?sw=640&sh=640",
+                "description": "A beautiful silver necklace with a modern touch."
+            },
+            {
+                "id": 206,
+                "name": "Diamond Earrings",
+                "price": 300000,
+                "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw6a6a9e4c/images/hi-res/512218PAFAAB00_1.jpg?sw=640&sh=640",
+                "description": "Elegant diamond earrings that sparkle in the light."
+            },
+            {
+                "id": 207,
+                "name": "Gold Ring",
+                "price": 15000,
+                "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw6db46d15/images/hi-res/510429FBAAA00.jpg?sw=640&sh=640",
+                "description": "A stunning gold ring with intricate designs."
+            },
+            {
+                "id": 208,
+                "name": "Silver Necklace",
+                "price": 120000,
+                "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw7727659b/images/hi-res/500596FAAAB02_1.jpg?sw=640&sh=640",
+                "description": "A beautiful silver necklace with a modern touch."
+            },
+            {
+                "id": 209,
+                "name": "Diamond Earrings",
+                "price": 300000,
+                "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw4c7189c6/images/hi-res/511096FCBAA18_1.jpg?sw=640&sh=640",
+                "description": "Elegant diamond earrings that sparkle in the light."
+            },
+            {
+                "id": 210,
+                "name": "Gold Ring",
+                "price": 15000,
+                "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw6ca2eeaa/images/hi-res/500063ODAAAB02_1.jpg?sw=640&sh=640",
+                "description": "A stunning gold ring with intricate designs."
+            },
+            {
+                "id": 211,
+                "name": "Silver Necklace",
+                "price": 120000,
+                "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw25515378/images/hi-res/513017OCLAAA00_1.jpg?sw=640&sh=640",
+                "description": "A beautiful silver necklace with a modern touch."
+            },
+            {
+                "id": 212,
+                "name": "Diamond Earrings",
+                "price": 300000,
+                "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw748eda70/images/hi-res/50D3B3YPCAA32_1.jpg?sw=640&sh=640",
+                "description": "Elegant diamond earrings that sparkle in the light."
+            },
+            {
+                "id": 213,
+                "name": "Gold Ring",
+                "price": 15000,
+                "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwa2805472/images/hi-res/512018YXUAB00_1.jpg?sw=640&sh=640",
+                "description": "A stunning gold ring with intricate designs."
+            },
+            {
+                "id": 214,
+                "name": "Silver Necklace",
+                "price": 120000,
+                "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw0253a212/images/hi-res/502990OADAAA02_1.jpg?sw=640&sh=640",
+                "description": "A beautiful silver necklace with a modern touch."
+            },
+            {
+                "id": 215,
+                "name": "Diamond Earrings",
+                "price": 300000,
+                "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw99b87ca0/images/hi-res/502990OABAAA02_1.jpg?sw=640&sh=640",
+                "description": "Elegant diamond earrings that sparkle in the light."
+            }
+
+
+
+
+
+            
+        ],
+        "gold": [
+            {
+                "id": 10,
+                "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw3bafdc74/images/hi-res/51M4I1DEBADA00_1.jpg?sw=480&sh=480",
+                "name": "Gold Ring",
+                "price": 15000
+            },
+            {
+                "id": 11,
+                "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwd25db0db/images/hi-res/504025HMTAAA00.jpg?sw=480&sh=480",
+                "name": "Gold Ring",
+                "price": 15000
+            },
+            {
+                "id": 12,
+                "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw75f4f557/images/hi-res/515090DBQAGA00_1.jpg?sw=480&sh=480",
+                "name": "Gold Ring",
+                "price": 15000
+            },
+            {
+                "id": 13,
+                "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw2de89b46/images/hi-res/50M4DVSCKABA00_1.jpg?sw=480&sh=480",
+                "name": "Gold Ring",
+                "price": 15000
+            },
+            {
+                "id": 14,
+                "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw2a062273/images/hi-res/51D1SCDJOABA00_1.jpg?sw=480&sh=480",
+                "name": "Gold Ring",
+                "price": 15000
+            },
+            {
+                "id": 15,
+                "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw58627cb4/images/hi-res/51D3D1DAMABA00_1.jpg?sw=640&sh=640",
+                "name": "Gold Ring",
+                "price": 15000
+            },
+            {
+                "id": 16,
+                "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwefbb9859/images/hi-res/51D3D1DMQABA00_1.jpg?sw=640&sh=640",
+                "name": "Gold Ring",
+                "price": 15000
+            },
+            {
+                "id": 17,
+                "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw42b81b67/images/hi-res/51D3D1HCOABA00_1.jpg?sw=640&sh=640",
+                "name": "Gold Ring",
+                "price": 15000
+            },
+            {
+                "id": 18,
+                "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwad811427/images/hi-res/511920PBIAAA00.jpg?sw=640&sh=640",
+                "name": "Gold Ring",
+                "price": 15000
+            },
+            {
+                "id": 19,
+                "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw2a403860/images/hi-res/511920PBGAAA00.jpg?sw=640&sh=640",
+                "name": "Gold Ring",
+                "price": 15000
+            },
+            {
+                "id": 20,
+                "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwb92755e2/images/hi-res/513218PQEAAA00.jpg?sw=640&sh=640",
+                "name": "Gold Ring",
+                "price": 15000
+            },
+            {
+                "id": 21,
+                "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw2998a3ae/images/hi-res/511518PLCAAA00_1.jpg?sw=480&sh=480",
+                "name": "Gold Ring",
+                "price": 15000
+            },
+            {
+                "id": 22,
+                "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw854b08ce/images/hi-res/51M4D1PFBAAA00_1.jpg?sw=640&sh=640",
+                "name": "Gold Ring",
+                "price": 15000
+            },
+            {
+                "id": 23,
+                "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwe05b0887/images/hi-res/51D2I1PEHAAA00_1.jpg?sw=640&sh=640",
+                "name": "Gold Ring",
+                "price": 15000
+            },
+            {
+                "id": 24,
+                "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw142ef465/images/hi-res/510783PPAAAA00_1.jpg?sw=640&sh=640",
+                "name": "Gold Ring",
+                "price": 15000
+            },
+            {
+                "id": 25,
+                "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwb188b836/images/hi-res/51D2D2PMKAAA00_1.jpg?sw=480&sh=480",
+                "name": "Gold Ring",
+                "price": 15000
+            },
+            {
+                "id": 26,
+                "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwd0f7df2d/images/hi-res/51D2D1PQVAAA00_2.jpg?sw=480&sh=480",
+                "name": "Gold Ring",
+                "price": 15000
+            },
+            {
+                "id": 27,
+                "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw908fe0fa/images/hi-res/511920FCMAA00.jpg?sw=480&sh=480",
+                "name": "Gold Ring",    
+                "price": 15000
+            },
+            {
+                "id": 28,
+                "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw54133b13/images/hi-res/510895FLAAA00_1.jpg?sw=480&sh=480",
+                "name": "Gold Ring",    
+                "price": 15000
+            },
+            {
+                "id": 29,
+                "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw4f182100/images/hi-res/511920FAPAA00_1.jpg?sw=640&sh=640",
+                "name": "Gold Ring",    
+                "price": 15000
+            },
+            {
+                "id": 30,
+                "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw21f6dd0b/images/hi-res/51D3B1FXGAA00_2.jpg?sw=480&sh=480",
+                "name": "Gold Ring",    
+                "price": 15000
+            },
+            {
+                "id": 31,
+                "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwc3c18bec/images/hi-res/51D3B1FXGAA00_1.jpg?sw=480&sh=480",
+                "name": "Gold Ring",    
+                "price": 15000
+            },
+            {
+                "id": 32,
+                "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw1d3943da/images/hi-res/510783FMAAB00_2.jpg?sw=480&sh=480",
+                "name": "Gold Ring",    
+                "price": 15000
+            },
+            {
+                "id": 33,
+                "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw685b9c3d/images/hi-res/51M4D1FCHAA00_1.jpg?sw=480&sh=480",
+                "name": "Gold Ring",    
+                "price": 15000
+            },
+            {
+                "id": 34,
+                "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw675a56dd/images/hi-res/511920FCVAA00_2.jpg?sw=480&sh=480",
+                "name": "Gold Ring",    
+                "price": 15000
+            }
+        ],
+        "diamond":[
+            {
+            "id":35,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw4e73337f/images/hi-res/501720SARADA32.jpg?sw=480&sh=480",
+            "name":"Diamond",
+            "price":15100
+        },
+        {
+            "id":36,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw102c4947/images/hi-res/502994SFRADA29.jpg?sw=640&sh=640",
+            "name":"Diamond",
+            "price":15100
+        },
+        {
+            "id":37,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dweccfa199/images/hi-res/50D2PTFYXAA09_1.jpg?sw=640&sh=640",
+            "name":"Diamond",
+            "price":15100
+        },
+        {
+            "id":38,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw8107bbd6/images/hi-res/501145FAAAC02_1.jpg?sw=640&sh=640",
+            "name":"Diamond",
+            "price":15100
+        },
+        {
+            "id":39,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwd5234ed1/images/hi-res/50DFB1DASADA02_1.jpg?sw=640&sh=640",
+            "name":"Diamond",
+            "price":15100
+        },
+        {
+            "id":40,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwe3a4d453/images/hi-res/50DFF1DALADA02_1.jpg?sw=640&sh=640",
+            "name":"Diamond",
+            "price":15100
+        },
+        {
+            "id":41,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwca025fd2/images/hi-res/50DFB1DAMADB32_1.jpg?sw=640&sh=640",
+            "name":"Diamond",
+            "price":15100
+        },
+        {
+            "id":42,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwd1f78f94/images/hi-res/501163PWJAAA09_1.jpg?sw=640&sh=640",
+            "name":"Diamond",
+            "price":15100
+        },
+        {
+            "id":43,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwe74824b3/images/hi-res/501720PABAAA32_1.jpg?sw=640&sh=640",
+            "name":"Diamond",
+            "price":15100
+        },
+        {
+            "id":44,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw748eda70/images/hi-res/50D3B3YPCAA32_1.jpg?sw=640&sh=640",
+            "name":"Diamond",
+            "price":15100
+        },
+        {
+            "id":45,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw2fc10ade/images/hi-res/50D4H2YAEAA02_1.jpg?sw=640&sh=640",
+            "name":"Diamond",
+            "price":15100
+        },
+        {
+            "id":46,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw881f0d1a/images/hi-res/50D4C1VYC1A02_1.jpg?sw=640&sh=640",
+            "name":"Diamond",
+            "price":15100
+        },
+        {
+            "id":47,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw3bae1c8b/images/hi-res/50D4FFBCHAA02_1.jpg?sw=640&sh=640",
+            "name":"Diamond",
+            "price":15100
+        },
+        {
+            "id":48,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw68bbae49/images/hi-res/50D4FFBCKAA02_1.jpg?sw=640&sh=640",
+            "name":"Diamond",
+            "price":15100
+        },
+        {
+            "id":49,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw90e614a8/images/hi-res/50K4I1SJDAGA02_1.jpg?sw=640&sh=640",
+            "name":"Diamond",
+            "price":15100
+        },
+        {
+            "id":50,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwdeae7d98/images/hi-res/50K4I1SIXAGA02_1.jpg?sw=640&sh=640",
+            "name":"Diamond",
+            "price":15100
+        },
+        {
+            "id":51,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw140f9a3a/images/hi-res/50D4I2DOKADA02_1.jpg?sw=640&sh=640",
+            "name":"DiamondDiamond",
+            "price":15100
+        },
+        {
+            "id":52,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw0c8a2448/images/hi-res/50K4I1SIOAGA02_1.jpg?sw=640&sh=640",
+            "name":"DiamondDiamond",
+            "price":15100
+        },
+        {
+            "id":53,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw5369b960/images/hi-res/50D3I1SRVAAA29_1.jpg?sw=640&sh=640",
+            "name":"DiamondDiamond",
+            "price":15100
+        },
+        {
+            "id":54,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw9b64748d/images/hi-res/50M4FFFCVAA02_1.jpg?sw=640&sh=640",
+            "name":"DiamondDiamond",
+            "price":15100
+        },
+        {
+            "id":55,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw3e82b00f/images/hi-res/50D4C1FKYAA02_1.jpg?sw=640&sh=640",
+            "name":"DiamondDiamond",
+            "price":15100
+        },
+        {
+            "id":56,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw365a6b14/images/hi-res/50D4C1FRYAA02_1.jpg?sw=640&sh=640",
+            "name":"DiamondDiamond",
+            "price":15100
+        },
+        {
+            "id":57,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw930b734f/images/hi-res/50D4C1FUKAA02_1.jpg?sw=640&sh=640",
+            "name":"Diamond",
+            "price":15100
+        },
+        {
+            "id":58,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw94f1bcde/images/hi-res/50D4I2FEZAA02_1.jpg?sw=640&sh=640",
+            "name":"Diamond",
+            "price":15100
+        }
+        
+    ],
+    "earrings":[
+        {
+            "id":59,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw1160d7bc/images/hi-res/51F1D1SERAGACZ_1.jpg?sw=640&sh=640",
+            "name":"earrings",
+            "price":15100
+        },
+        {
+            "id":60,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwdd947096/images/hi-res/50F1D1SIGAGA32_1.jpg?sw=640&sh=640",
+            "name":"earrings",
+            "price":15100
+        },
+        {
+            "id":61,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw9c1eb426/images/hi-res/50D5A1SEYADA02_1.jpg?sw=640&sh=640",
+            "name":"earrings",
+            "price":15100
+        },
+        {
+            "id":62,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwe4274a23/images/hi-res/50F1D1SGDAGA02_1.jpg?sw=640&sh=640",
+            "name":"earrings",
+            "price":15100
+        },
+        {
+            "id":63,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwd4a3e4a2/images/hi-res/51D5B2DAJABA00_1.jpg?sw=640&sh=640",
+            "name":"earrings",
+            "price":15100
+        },
+        {
+            "id":64,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwc1661a90/images/hi-res/50K4I2JAGAGA02_1.jpg?sw=640&sh=640",
+            "name":"earrings",
+            "price":15100
+        },
+        {
+            "id":65,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwd4e9edf1/images/hi-res/51D4G2SFMABA00_1.jpg?sw=640&sh=640",
+            "name":"earrings",
+            "price":15100
+        },
+        {
+            "id":66,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwb491ed17/images/hi-res/51D5M1DFHABA00_1.jpg?sw=640&sh=640",
+            "name":"earrings",
+            "price":15100
+        },
+        {
+            "id":67,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwca184e4d/images/hi-res/51D5P1DNGABA00_1.jpg?sw=640&sh=640",
+            "name":"earrings",
+            "price":15100
+        },
+        {
+            "id":68,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw32b76dd1/images/hi-res/50D4B3SMRAGA02_1.jpg?sw=640&sh=640",
+            "name":"earrings",
+            "price":15100
+        },
+        {
+            "id":69,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw7285cb74/images/hi-res/50D4B3HJVAAA02_1.jpg?sw=640&sh=640",
+            "name":"earrings",
+            "price":15100
+        },
+        {
+            "id":70,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwb971485e/images/hi-res/51D5B1DVTABA00_1.jpg?sw=640&sh=640",
+            "name":"earrings",
+            "price":15100
+        },
+        {
+            "id":71,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw6d2145de/images/hi-res/50D4PLSSNABA02_1.jpg?sw=640&sh=640",
+            "name":"earrings",
+            "price":15100
+        },
+        {
+            "id":72,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcb32c8d4/images/hi-res/51D5B2SCOABA00_1.jpg?sw=640&sh=640",
+            "name":"earrings",
+            "price":15100
+        },
+        {
+           "id":73,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw5a0146c0/images/hi-res/500109DAAABAPL_1.jpg?sw=640&sh=640",
+            "name":"earrings",
+            "price":15100 
+        },
+        {
+            "id":74,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwd8d0b69f/images/hi-res/504025HMQAAA00.jpg?sw=640&sh=640",
+            "name":"earrings",
+            "price":15100 
+        },
+        {
+            "id":75,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcc93cf65/images/hi-res/50D5FFDAAABA32_1.jpg?sw=640&sh=640",
+            "name":"earrings",
+            "price":15100 
+        },
+        {
+            "id":76,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw19af0a97/images/hi-res/50D5FFHADAAA32_1.jpg?sw=640&sh=640",
+            "name":"earrings",
+            "price":15100 
+        },
+        {
+            "id":77,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw654d1c5b/images/hi-res/50D5FFDALABA32_1.jpg?sw=640&sh=640",
+            "name":"earrings",
+            "price":15100 
+        },
+        {
+            "id":78,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwb842fe47/images/hi-res/505002SAVAGA09_1.jpg?sw=640&sh=640",
+            "name":"earrings",
+            "price":15100 
+        },
+        {
+            "id":79,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwea514af4/images/hi-res/50K4I1SIKAGA02_1.jpg?sw=640&sh=640",
+            "name":"earrings",
+            "price":15100 
+        },
+        {
+            "id":80,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw02d81899/images/hi-res/504022SGGAGA02_1.jpg?sw=640&sh=640",
+            "name":"earrings",
+            "price":15100 
+        },
+        {
+            "id":81,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwb3203559/images/hi-res/50K4I1SIRAGA02_1.jpg?sw=640&sh=640",
+            "name":"earrings",
+            "price":15100 
+        },
+        {
+            "id":82,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwa0f274a8/images/hi-res/504022SGFAGA02_1.jpg?sw=640&sh=640",
+            "name":"earrings",
+            "price":15100 
+        }
+    ],
+    "rings":[{
+        "id":83,
+        "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwb334a8c2/images/hi-res/51K2I2FAPAA00_1.jpg?sw=640&sh=640",
+        "name":"rings",
+        "price":15100
+    },
+    {
+        "id":84,
+        "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw5e1082df/images/hi-res/513013FLTAA00_1.jpg?sw=640&sh=640",
+        "name":"rings",
+        "price":15100
+    },
+    {
+        "id":85,
+        "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw30543f60/images/hi-res/50D4I1FFWAA09_1.jpg?sw=640&sh=640",
+        "name":"rings",
+        "price":15100
+    },
+    {
+        "id":86,
+        "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw5a55486e/images/hi-res/50D4A1FLGAA29_1.jpg?sw=640&sh=640",
+        "name":"rings",
+        "price":15100
+    },
+    {
+        "id":87,
+        "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw79c2e429/images/hi-res/50D4I1FNLAA09_1.jpg?sw=640&sh=640",
+        "name":"rings",
+        "price":15100
+    },
+    {
+        "id":88,
+        "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw7a242603/images/hi-res/50D4B2FXBAA09_1.jpg?sw=640&sh=640",
+        "name":"rings",
+        "price":15100
+    },
+    {
+        "id":89,
+        "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw19f15c6b/images/hi-res/50D4B3FOUAA09_1.jpg?sw=640&sh=640",
+        "name":"rings",
+        "price":15100
+    },
+    {
+        "id":90,
+        "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwa6e33d24/images/hi-res/51D4A1FCUAA00_1.jpg?sw=640&sh=640",
+        "name":"rings",
+        "price":15100
+    },
+    {
+        "id":91,
+        "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw3bb5a51d/images/hi-res/50E4C1FADAA02_1.jpg?sw=640&sh=640",
+        "name":"rings",
+        "price":15100
+    },
+    {
+        "id":92,
+        "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw58f98b80/images/hi-res/50D5FFFAHAA32_1.jpg?sw=640&sh=640",
+        "name":"rings",
+        "price":15100
+    },
+    {
+        "id":93,
+        "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dweccfa199/images/hi-res/50D2PTFYXAA09_1.jpg?sw=640&sh=640",
+        "name":"rings",
+        "price":15100
+    },
+    {
+        "id":94,
+        "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw5f2c5c45/images/hi-res/510122FAAAA00.jpg?sw=640&sh=640",
+        "name":"rings",
+        "price":15100
+    },
+    {
+        "id":95,
+        "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw79e9d14e/images/hi-res/50D3FFFKQAA02_1.jpg?sw=640&sh=640",
+        "name":"rings",
+        "price":15100
+    },
+    {
+        "id":96,
+        "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw35c287db/images/hi-res/51F5JYFESAA00_1.jpg?sw=640&sh=640",
+        "name":"rings",
+        "price":15100
+    },
+    {
+        "id":97,
+        "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw50fd778d/images/hi-res/51F5JYFERAA00_1.jpg?sw=640&sh=640",
+        "name":"rings",
+        "price":15100
+    },
+    {
+        "id":98,
+        "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwa1d0b862/images/hi-res/51F5JYFEQAA00_1.jpg?sw=640&sh=640",
+        "name":"rings",
+        "price":15100
+    },
+    {
+        "id":99,
+        "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwa5e4aaf6/images/hi-res/51W4RIFDVAA00_1.jpg?sw=640&sh=640",
+        "name":"rings",
+        "price":15100
+    },
+    {
+        "id":100,
+        "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwa482335f/images/hi-res/51M5B1FBBAA00_1.jpg?sw=640&sh=640",
+        "name":"rings",
+        "price":15100
+    },
+    {
+        "id":101,
+        "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw77fe85cc/images/hi-res/51M5I1FAXAA00_1.jpg?sw=640&sh=640",
+        "name":"rings",
+        "price":15100
+    },
+    {
+        "id":102,
+        "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw3446a821/images/hi-res/51M5I1FASAA00_1.jpg?sw=640&sh=640",
+        "name":"rings",
+        "price":15100
+    },
+    {
+        "id":103,
+        "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw4457a6cf/images/hi-res/51M5B1FDGAA00_1.jpg?sw=640&sh=640",
+        "name":"rings",
+        "price":15100
+    },
+    {
+        "id":104,
+        "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwd8c92198/images/hi-res/51M5I1FAWAA00_1.jpg?sw=640&sh=640",
+        "name":"rings",
+        "price":15100
+    },
+    {
+        "id":105,
+        "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw3eca6f5b/images/hi-res/51M5B1FGYAA00_1.jpg?sw=640&sh=640",
+        "name":"rings",
+        "price":15100
+    },
+    {
+        "id":106,
+        "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwb0ebfac3/images/hi-res/51M5I1FAPAA00_1.jpg?sw=640&sh=640",
+        "name":"rings",
+        "price":15100
+    }
+],
+    "dailywear":[
+        {
+            "id":107,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwd1f78f94/images/hi-res/501163PWJAAA09_1.jpg?sw=640&sh=640",
+            "name":"dailywear",
+            "price":20500
+        },
+        {
+            "id":108,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw5337815b/images/hi-res/501169PAEAAA09_1.jpg?sw=640&sh=640",
+            "name":"dailywear",
+            "price":20500
+        },
+        {
+            "id":109,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw80ff17ec/images/hi-res/502015HIOAAA02_1.jpg?sw=640&sh=640",
+            "name":"dailywear",
+            "price":20500
+        },
+        {
+            "id":110,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw4eb3e6bc/images/hi-res/50D1D2SJOABA02_1.jpg?sw=640&sh=640",
+            "name":"dailywear",
+            "price":20500
+        },
+        {
+            "id":111,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw3bafdc74/images/hi-res/51M4I1DEBADA00_1.jpg?sw=640&sh=640",
+            "name":"dailywear",
+            "price":20500
+        },
+        {
+            "id":112,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw5a0146c0/images/hi-res/500109DAAABAPL_1.jpg?sw=640&sh=640",
+            "name":"dailywear",
+            "price":20500
+        },
+        {
+            "id":113,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw424af14f/images/hi-res/501770SAUAGA02.jpg?sw=640&sh=640",
+            "name":"dailywear",
+            "price":20500
+        },
+        {
+            "id":114,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw8223e352/images/hi-res/50D1D2SJZAGA02_1.jpg?sw=640&sh=640",
+            "name":"dailywear",
+            "price":20500
+        },
+        {
+            "id":115,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw2be2bc69/images/hi-res/50D4FFFCWAA09_1.jpg?sw=640&sh=640",
+            "name":"dailywear",
+            "price":20500
+        },
+        {
+            "id":116,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw881f0d1a/images/hi-res/50D4C1VYC1A02_1.jpg?sw=640&sh=640",
+            "name":"dailywear",
+            "price":20500
+        },
+        {
+            "id":117,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwf64b143e/images/hi-res/51M4D1VAK2A00_1.jpg?sw=640&sh=640",
+            "name":"dailywear",
+            "price":20500
+        },
+        {
+            "id":118,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw31b339da/images/hi-res/51M4I1VGL1A00_1.jpg?sw=640&sh=640",
+            "name":"dailywear",
+            "price":20500
+        },
+        {
+            "id":119,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw17c7b9d8/images/hi-res/51D3D2SEOABA00_1.jpg?sw=640&sh=640",
+            "name":"dailywear",
+            "price":20500
+        },
+        {
+            "id":120,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw44683ae8/images/hi-res/51D3D2SEQABA00_1.jpg?sw=640&sh=640",
+            "name":"dailywear",
+            "price":20500
+        },
+        {
+            "id":121,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw438f0047/images/hi-res/50D4I1SDGADA40_1.jpg?sw=640&sh=640",
+            "name":"dailywear",
+            "price":20500
+        },
+        {
+            "id":122,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw32b76dd1/images/hi-res/50D4B3SMRAGA02_1.jpg?sw=640&sh=640",
+            "name":"dailywear",
+            "price":20500
+        },
+        {
+            "id":123,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw85c420ee/images/hi-res/50D4I1PYGAAA09_1.jpg?sw=640&sh=640",
+            "name":"dailywear",
+            "price":20500
+        },
+        {
+            "id":124,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw14763f33/images/hi-res/50D4I2PLQAAA02_1.jpg?sw=640&sh=640",
+            "name":"dailywear",
+            "price":20500
+        },
+        {
+            "id":125,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwb1e81370/images/hi-res/51D4MPBEKAA00_1.jpg?sw=640&sh=640",
+            "name":"dailywear",
+            "price":20500
+        },
+        {
+            "id":126,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwbdebb1b0/images/hi-res/51D4B3BERAA40_1.jpg?sw=640&sh=640",
+            "name":"dailywear",
+            "price":20500
+        },
+        {
+            "id":127,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwbcfed682/images/hi-res/51D3B2BBSAA00_1.jpg?sw=640&sh=640",
+            "name":"dailywear",
+            "price":20500
+        },
+        {
+            "id":128,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw3bae1c8b/images/hi-res/50D4FFBCHAA02_1.jpg?sw=640&sh=640",
+            "name":"dailywear",
+            "price":20500
+        },
+        {
+            "id":129,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw68bbae49/images/hi-res/50D4FFBCKAA02_1.jpg?sw=640&sh=640",
+            "name":"dailywear",
+            "price":20500
+        },
+        {
+            "id":130,
+            "image":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwe34aa1b3/images/hi-res/50M4C1FKHAA00_1.jpg?sw=640&sh=640",
+            "name":"dailywear",
+            "price":20500
+        }
+    ],
+    "collections1":[
+        {
+            "id":131,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dw9226e57d/microsite/joy-of-dressing/50D4FFHCOAAA02.jpg",
+            "name":"collections",
+            "description":"collections"
+        },
+        {
+            "id":132,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dw7a7f7e6f/microsite/joy-of-dressing/50D4FFFCCLAA02.jpg",
+            "name":"collections",
+            "description":"collections"
+        },
+        {
+            "id":133,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dwbbf91123/microsite/joy-of-dressing/50D4FFVCCE1A02.jpg",
+            "name":"collections",
+            "description":"collections"
+        },
+        {
+            "id":134,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dwbcc13357/microsite/joy-of-dressing/into-eternity-banners-textd.jpg",
+            "name":"collections",
+            "description":"collections"
+        }
+    ],
+    "collections2":[
+
+
+         {
+            "id":139,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dwf2e72d4b/microsite/joy-of-dressing/50D3FFDBOAGA10.jpg",
+            "name":"collections",
+            "description":"collections"
+        },
+        {
+            "id":140,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dw28393df4/microsite/joy-of-dressing/50D3FFBBDBAA10.jpg",
+            "name":"collections",
+            "description":"collections"
+        },
+        {
+            "id":141,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dw6a9be760/microsite/joy-of-dressing/50D3FFGAVEAA10.jpg",
+            "name":"collections",
+            "description":"collections"
+        },
+        {
+            "id":142,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dw1542d46c/microsite/joy-of-dressing/the-italian-connection-textd.jpg",
+            "name":"collections",
+            "description":"collections"
+        }
+
+    ],
+    "collections3":[
+
+
+
+        {
+            "id":135,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dw36b50a07/microsite/joy-of-dressing/50D3P2SASABAP6.jpg",
+            "name":"collections",
+            "description":"collections"
+        },
+        {
+            "id":136,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dwc2644194/microsite/joy-of-dressing/50D3P20AJEBAP6.jpg",
+            "name":"collections",
+            "description":"collections"
+        },
+        {
+            "id":137,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dw9996d246/microsite/joy-of-dressing/50D3P22ARABAP6.jpg",
+            "name":"collections",
+            "description":"collections"
+        },
+        {
+            "id":138,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dw54287801/microsite/joy-of-dressing/colour-charms-textd.jpg",
+            "name":"collections",
+            "description":"collections"
+        }
+
+
+       
+    ],
+    "collections4":[
+
+
+        
+        {
+            "id":147,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dwf2e72d4b/microsite/joy-of-dressing/50D3FFDBOAGA10.jpg",
+            "name":"collections",
+            "description":"collections"
+        },
+        {
+            "id":148,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dw28393df4/microsite/joy-of-dressing/50D3FFBBDBAA10.jpg",
+            "name":"collections",
+            "description":"collections"
+        },
+        {
+            "id":149,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dw6a9be760/microsite/joy-of-dressing/50D3FFGAVEAA10.jpg",
+            "name":"collections",
+            "description":"collections"
+        },
+        {
+            "id":150,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dw1542d46c/microsite/joy-of-dressing/the-italian-connection-textd.jpg",
+            "name":"collections",
+            "description":"collections"
+        }
+
+    ],
+    "collections5":[
+
+
+
+        {
+            "id":143,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dwbb31a102/microsite/joy-of-dressing/50D3FFDAIABA02.jpg",
+            "name":"collections",
+            "description":"collections"
+        },
+        {
+            "id":144,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dwfc579966/microsite/joy-of-dressing/50D3FFPALAAA10.jpg",
+            "name":"collections",
+            "description":"collections"
+        },
+        {
+            "id":145,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dwa6265f57/microsite/joy-of-dressing/50D3FFBAPAA02.jpg",
+            "name":"collections",
+            "description":"collections"
+        },
+        {
+            "id":146,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dwe194cd5d/microsite/joy-of-dressing/gwtf-text-desktop.jpg",
+            "name":"collections",
+            "description":"collections"
+        }
+
+
+    ],
+    "collections6":[
+        {
+            "id":151,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dw877e6008/microsite/joy-of-dressing/50D3I1DDTABA09.jpg",
+            "name":"collections",
+            "description":"collections"
+        },
+        {
+            "id":152,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dwbe7587d0/microsite/joy-of-dressing/50D3I1NETAA09.jpg",
+            "name":"collections",
+            "description":"collections"
+        },
+        {
+            "id":153,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dwc224347c/microsite/joy-of-dressing/50D3I1NEUAA09.jpg",
+            "name":"collections",
+            "description":"collections"
+        },
+        {
+            "id":154,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dw8012a3e7/microsite/joy-of-dressing/dropofradiancetextd.jpg",
+            "name":"collections",
+            "description":"collections"
+        }
+    ],
+    "collections7":[
+        {
+            "id":155,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dw23924cf8/microsite/joy-of-dressing/50D2FFSQGAGA02.jpg",
+            "name":"collections",
+            "description":"collections"
+        },
+        {
+            "id":156,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dwde8563a5/microsite/joy-of-dressing/50D2FFPRGAAA02.jpg",
+            "name":"collections",
+            "description":"collections"
+        },
+        {
+            "id":157,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dwa83f9f9e/microsite/joy-of-dressing/50D2FFFQRAA02.jpg",
+            "name":"collections",
+            "description":"collections"
+        },
+        {
+            "id":158,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dw2b9bede3/microsite/joy-of-dressing/sparklingavenuestextd.jpg",
+            "name":"collections",
+            "description":"collections"
+        }
+    ],
+    "collections8":[
+        {
+            "id":159,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dw2ead45a1/microsite/joy-of-dressing/50D2P2HYSAAA32.jpg",
+            "name":"collections",
+            "description":"collections"
+        },
+        {
+            "id":160,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dw6ed07785/microsite/joy-of-dressing/50D2P2BYQBAA32.jpg",
+            "name":"collections",
+            "description":"collections"
+        },
+        {
+            "id":161,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dwb13d61e0/microsite/joy-of-dressing/50D2P2NYLAAA32.jpg",
+            "name":"collections",
+            "description":"collections"
+        },
+        {
+            "id":162,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dw3648346e/microsite/joy-of-dressing/prettyinpinktextd.jpg",
+            "name":"collections",
+            "description":"collections"
+        }
+    ],
+    "collections9":[
+        {
+            "id":163,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dw8159b9a5/microsite/joy-of-dressing/50D2FFSRYAGA02.jpg",
+            "name":"collections",
+            "description":"collections"
+        },
+        {
+            "id":164,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dw352970c2/microsite/joy-of-dressing/50D2FFBRUBAA02.jpg",
+            "name":"collections",
+            "description":"collections"
+        },
+        {
+            "id":165,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dw4e4a4cfe/microsite/joy-of-dressing/50D2FFFSELAA02.jpg",
+            "name":"collections",
+            "description":"collections"
+        },
+        {
+            "id":166,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dwb848ca1d/microsite/joy-of-dressing/dadtextd.jpg",
+            "name":"collections",
+            "description":"collections"
+        }
+    ],
+    "collections10":[
+        {
+            "id":167,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dw1d7a69a4/microsite/joy-of-dressing/50D3I1BXQAA32.jpg",
+            "name":"collections",
+            "description":"collections"
+        },
+        {
+            "id":168,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dwf3600583/microsite/joy-of-dressing/50D3I1DWZABA00.jpg",
+            "name":"collections",
+            "description":"collections"
+        },
+        {
+            "id":169,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dw289ddd44/microsite/joy-of-dressing/50D3I1GXJAA02.jpg",
+            "name":"collections",
+            "description":"collections"
+        },
+        {
+            "id":170,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dwb62c45ac/microsite/joy-of-dressing/finefinishtextd.jpg",
+            "name":"collections",
+            "description":"collections"
+        }
+    ],
+    "collections11":[
+        {
+            "id":171,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dw4ce4cc9e/microsite/joy-of-dressing/50D2FFVOM1A09.jpg",
+            "name":"collections",
+            "description":"collections"
+        },
+        {
+            "id":172,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dwff8c5e4d/microsite/joy-of-dressing/50D2FFHOZAGA09.jpg",
+            "name":"collections",
+            "description":"collections"
+        },
+        {
+            "id":173,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dwb42f82dc/microsite/joy-of-dressing/50D2FFGPEAA09.jpg",
+            "name":"collections",
+            "description":"collections"
+        },
+        {
+            "id":174,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dw101d9130/microsite/joy-of-dressing/crescendotextd.jpg",
+            "name":"collections",
+            "description":"collections"
+        }
+    ],
+    "collections12":[
+        {
+            "id":175,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dwaa567ac6/microsite/joy-of-dressing/50D2I2BAIBAA29.jpg",
+            "name":"collections",
+            "description":"collections"
+        },
+        {
+            "id":176,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dwdf1918d7/microsite/joy-of-dressing/50D2I2FEQLAA29.jpg",
+            "name":"collections",
+            "description":"collections"
+        },
+        {
+            "id":177,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dw623710f7/microsite/joy-of-dressing/50D2I2NCFAAA00.jpg",
+            "name":"collections",
+            "description":"collections"
+        },
+        {
+            "id":178,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dw59e9527f/microsite/joy-of-dressing/Sleektextd.jpg",
+            "name":"collections",
+            "description":"collections"
+        }
+    ],
+    "collections13":[
+        {
+            "id":179,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dw31c0e3b5/microsite/joy-of-dressing/50D2I2VBY1A37.jpg",
+            "name":"collections",
+            "description":"collections"
+        },
+        {
+            "id":180,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dw76d8e9d5/microsite/joy-of-dressing/50D2I2SNAADA37.jpg",
+            "name":"collections",
+            "description":"collections"
+        },
+        {
+            "id":181,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dw74fb2d27/microsite/joy-of-dressing/50D2I2GNIAA37.jpg",
+            "name":"collections",
+            "description":"collections"
+        },
+        {
+            "id":182,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dw401f7b59/microsite/joy-of-dressing/BringTheShinetextd.jpg",
+            "name":"collections",
+            "description":"collections"
+        }
+    ],
+    "collections14":[
+        {
+            "id":183,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dwa5b86cd4/microsite/joy-of-dressing/50D2FFDIZAGA09.jpg",
+            "name":"collections",
+            "description":"collections"
+        },
+        {
+            "id":184,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dwb4fc4590/microsite/joy-of-dressing/50D2FFFIJAA09.jpg",
+            "name":"collections",
+            "description":"collections"
+        },
+        {
+            "id":185,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dwb8eefd3c/microsite/joy-of-dressing/50D2FFGHTAA09.jpg",
+            "name":"collections",
+            "description":"collections"
+        },
+        {
+            "id":186,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dw4d9934bd/microsite/joy-of-dressing/Nyushatextd.jpg",
+            "name":"collections",
+            "description":"collections"
+        }
+    ],
+    "collections15":[
+        {
+            "id":187,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dw9a7f49e8/microsite/joy-of-dressing/50D2FFDGSAGA29.jpg",
+            "name":"collections",
+            "description":"collections"
+        },
+        {
+            "id":188,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dw7b1760f0/microsite/joy-of-dressing/50D2FFGHKGAA29.jpg",
+            "name":"collections",
+            "description":"collections"
+        },
+        {
+            "id":189,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dw4adb09c0/microsite/joy-of-dressing/50D2FFGHMGAA29.jpg",
+            "name":"collections",
+            "description":"collections"
+        },
+        {
+            "id":190,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dwa4d2b284/microsite/joy-of-dressing/50D2FFSGOAGA29.jpg",
+            "name":"collections",
+            "description":"collections"
+        },
+        {
+            "id":191,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dw465bb98a/microsite/joy-of-dressing/50D2FFHGWAAA29.jpg",
+            "name":"collections",
+            "description":"collections"
+        },
+        {
+            "id":192,
+            "image":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dw3c6282ae/microsite/joy-of-dressing/50D2FFPHHAAA29.jpg",
+            "name":"collections",
+            "description":"collections"
+        },
+        {
+            "id":193,
+            "immage":"https://www.tanishq.co.in/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dw969404d8/microsite/joy-of-dressing/lilac.jpg",
+               "name":"collections",
+            "description":"collections"
+        }
+    ]
+        
+    }

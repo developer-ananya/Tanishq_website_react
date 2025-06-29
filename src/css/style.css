@@ -1,0 +1,118 @@
+/* *{
+    overflow-x: hidden;
+} */
+
+#search {
+    border-radius: 50px;
+    width: 600px;
+    padding: 10px;
+    
+}
+
+
+#search::placeholder {
+    color: #300708;
+    opacity: 0.5;
+    font-size: 15px;
+}
+
+
+
+
+#text-tq{
+
+    width: 500px;
+    margin-left: -50px;
+}
+#qr-section{
+margin-left: -150px;
+}
+#useful-links{
+    margin-left: 150px;
+}
+#play{
+    margin-left: -70px;
+}
+#insta{
+  background-color: #381515; 
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+
+}
+#facebook{
+  background-color: #381515; 
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+
+}
+#twitter{
+  background-color: #381515; 
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+
+}
+#youtube{
+  background-color: #381515; 
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+
+}
+#payment{
+    margin-left: 130px;
+}
+#social{
+    margin-left: -290px;
+}
+#terms{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.parent {
+display: grid;
+grid-template-columns: repeat(6, 1fr);
+grid-template-rows: repeat(8, 1fr);
+margin-left:70px;
+margin-right: 150px;
+margin-top: 80px;
+
+}
+
+.div1 { grid-area: 1 / 1 / 9 / 4; }
+.div2 { grid-area: 1 / 4 / 5 / 7; }
+.div3 { grid-area: 5 / 4 / 9 / 7; }
+
+
+#world-card{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    margin-left:130px;
+    margin-right: 150px;
+    margin-top: 30px;
+
+
+}
+#arrival{
+    background-image: url('https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Library-Sites-TanishqSharedLibrary/default/dw08083f53/homepage/new-arrivals/new-arrivals-background.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 420px;
+    width: 100%;
+    margin-bottom: 300px;
+    margin-top: 30px;
+    
+}
+#new{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    
+}
+
+

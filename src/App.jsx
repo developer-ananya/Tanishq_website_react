@@ -6,7 +6,7 @@ import Diamond from "./pages/diamond";
 import Collection from "./pages/collection";
 import Rings from "./pages/rings";
 import Earings from "./pages/earings"; 
-import Dailywear from "./pages/Dailywear";
+import Dailywear from "./pages/dailywear";
 import AllJewellery from "./pages/alljewellery";
 import Gifting from "./pages/gifting";
 import Wedding from "./pages/wedding";
